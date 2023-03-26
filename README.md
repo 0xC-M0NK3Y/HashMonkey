@@ -10,7 +10,7 @@ Hashfunction sources is in hash_func_src :
 ```
 The two functions allocates memory that you'll need to free.  
   
-Hash is in computed in 128 bits (16 bytes) in an uint8_t*.  
+Hash is computed in 128 bits (16 bytes) in an uint8_t*.  
 You can call bin2hex to see hash value in hex  
     e.g 5407F7C0EB58870B5719B42105391C00 (hash of "0xC_M0NK3Y")
   
